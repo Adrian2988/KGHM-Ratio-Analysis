@@ -12,7 +12,7 @@ This project contains a ratio analysis of KGHM Polska Miedź S.A., compared to t
 ### 2. Excel Integration
 
  - The exported Excel files were then imported into a master Excel workbook.
- - Each table was loaded, cleaned and transformed into a separate sheet to maintain organization and clarity by using Power Query.
+ - Each table was loaded, cleaned and transformed into a separate sheets to maintain organization and clarity by using Power Query.
 
 ### 3. Dashboard Creation
 
@@ -38,3 +38,8 @@ This project contains a ratio analysis of KGHM Polska Miedź S.A., compared to t
  - SQL Server Management Studio (SSMS):
    - If you wish to review the SQL database structure I created, you can open the provided KGHM Database SQL.sql script in SSMS.
    - This script contains the structure of the database but does not require any further setup unless you want to replicate the process.
+
+### Clone the Repository
+
+```bash
+https://github.com/Adrian2988/KGHM-Ratio-Analysis

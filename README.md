@@ -42,4 +42,4 @@ This project contains a ratio analysis of KGHM Polska Miedź S.A., compared to t
 ### Download the Repository
 
 ```bash
- (https://github.com/Adrian2988/KGHM-Ratio-Analysis/archive/refs/heads/main.zip)
+https://github.com/Adrian2988/KGHM-Ratio-Analysis/archive/refs/heads/main.zip

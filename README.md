@@ -39,7 +39,7 @@ This project contains a ratio analysis of KGHM Polska Miedź S.A., compared to t
    - If you wish to review the SQL database structure I created, you can open the provided KGHM Database SQL.sql script in SSMS.
    - This script contains the structure of the database but does not require any further setup unless you want to replicate the process.
 
-### Download the Repository
 
-```bash
-https://github.com/Adrian2988/KGHM-Ratio-Analysis/archive/refs/heads/main.zip
+### Clone the Repository
+
+- [Click here to download the repository as a ZIP file](https://github.com/Adrian2988/KGHM-Ratio-Analysis/archive/refs/heads/main.zip) and extract it to your local machine.

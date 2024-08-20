@@ -29,7 +29,7 @@ All data used in this project is stored on OneDrive. The Power Query queries wit
 2. **Manual Download (Optional)**: If you encounter any issues with the connection, you can manually download the data files from OneDrive using the provided links and then update the source paths in Power Query.
    
 3. **Shared Links**: The data files can be accessed through the following OneDrive links:
-   - cash_flow_financing: https://onedrive.live.com/download?id=8B2A3064FD7C1714!35838&resid=8B2A3064FD7C1714!35838&authkey=!AM5pI7gIS75nypE&wd=cpe&wdo=2&cid=8b2a3064fd7c1714
+   - cash_flow_financing: https://onedrive.live.com/download.aspx?resid=8B2A3064FD7C1714%2135839&authkey=!AIJmerJC9TavwrY
    - cash_flow_invest: https://onedrive.live.com/download.aspx?resid=8B2A3064FD7C1714%2135838&authkey=!AM5pI7gIS75nypE
    - cash_flow_operating: https://onedrive.live.com/download.aspx?resid=8B2A3064FD7C1714%2135837&authkey=!ABOMDsvYhH2ZFEs
    - Current_Assets: https://onedrive.live.com/download.aspx?resid=8B2A3064FD7C1714%2135840&authkey=!APPdHm9In64SMfM

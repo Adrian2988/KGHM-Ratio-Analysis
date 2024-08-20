@@ -18,7 +18,7 @@ This project contains a ratio analysis of KGHM Polska Miedź S.A., compared to t
 
  - The dashboard visualizes the ratio analysis, allowing for comparisons between KGHM and the top 40 global mining companies.
  - The analysis does not require a live connection to the SQL Server database; all data is stored in Excel workbooks hosted on OneDrive. If you wish, you can find the Excel workbooks in the "Exported data" folder.
- - 
+   
 ## Data source 
 
 All data used in this project is stored on OneDrive. The Power Query queries within the Excel workbook are connected to these OneDrive files via shared links. These links are publicly accessible, meaning anyone with the link can view the files.
